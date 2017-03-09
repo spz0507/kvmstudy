@@ -2,3 +2,6 @@
 This is my first git project.
 Workhard
 splash 23#
+
+git remote add origin https://github.com/hiswalker/kvmstudy.git
+git push -u origin master
